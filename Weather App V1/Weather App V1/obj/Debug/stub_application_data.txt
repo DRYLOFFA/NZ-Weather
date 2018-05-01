@@ -1,0 +1,2 @@
+android.app.Application
+NZ_Weather.NZ_Weather

@@ -1,0 +1,170 @@
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Weather App V1.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Weather App V1.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\RestSharp.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\Weather App V1.csprojResolveAssemblyReference.cache
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\Weather App V1.csproj.CoreCompileInputs.cache
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\Weather App V1.csproj.CopyComplete
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\Weather App V1.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\Weather App V1.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\layout\main.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\values\strings.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\gps.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\search.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\R.cs.flag
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\uploadflags.txt
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Mono.Android.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\mscorlib.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Core.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Xml.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Data.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Numerics.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Transactions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Mono.Security.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Core.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Data.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\android\assets\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\clear.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\clouds.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\cloudy.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\drizzle.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\rain.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\snow.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\thunderstorm.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\noimage.jpg
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\layout\list_item.xml
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Weather App V1.dll
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Weather App V1.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Weather_App_V1.Weather_App_V1.apk
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Weather_App_V1.Weather_App_V1-Signed.apk
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\RestSharp.dll
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\Weather App V1.csprojResolveAssemblyReference.cache
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\Weather App V1.csproj.CoreCompileInputs.cache
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\Weather App V1.csproj.CopyComplete
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\Weather App V1.dll
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\Weather App V1.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\android\bin\Weather_App_V1.Weather_App_V1.apk
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\layout\main.xml
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\values\strings.xml
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\gps.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\search.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\clear.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\clouds.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\cloudy.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\drizzle.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\snow.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\thunderstorm.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\rain.png
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\layout\list_item.xml
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\res\drawable\noimage.jpg
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\R.cs.flag
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\uploadflags.txt
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\System.Xml.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\bin\Debug\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\android\assets\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Core.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Data.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\DRYLOFFA\Desktop\Weather App V1 UI\Weather App V1\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\earth1.jpg
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\nzblue.jpg
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\layout\splash.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\splash.jpg
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\values\styles.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\res\drawable\icon.png
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\NZ_Weather.NZ_Weather.apk
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\NZ_Weather.NZ_Weather-Signed.apk
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\android\bin\NZ_Weather.NZ_Weather.apk
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Geolocator.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Geolocator.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\bin\Debug\Weather App V1.dll
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Weather App V1.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\DRYLOFFA\Documents\Visual Studio 2017\Projects\Weather App V1\Weather App V1\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
